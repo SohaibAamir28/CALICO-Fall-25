@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"d:\\proj\\my\\CALICO-Fall-25\\problem-5b-1\\main.py","tests":[{"id":1762742906558,"input":" 3\n aa 2\n abab 1\n AaBBaBAab 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\proj\\my\\CALICO-Fall-25\\problem-5b-1\\main.py","group":"local","local":true}
